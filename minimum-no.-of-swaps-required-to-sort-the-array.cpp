@@ -3,10 +3,6 @@ I have referred to this approach from youtube.
 
 Approach: 
 
-1 5 4 3 2
-
-1 2 3 4 5
-
 TC : O(nLog n) 
 
 SC : O(n)
